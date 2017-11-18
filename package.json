@@ -1,0 +1,28 @@
+{
+  "name": "ampersand-sync-fetch",
+  "version": "1.0.0",
+  "description": "Replaces ampersand-sync use of xhr with the fetch api.",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Fernando Cano",
+    "email": "fcanocollab@gmail.com",
+    "url": "https://github.com/fernandocano"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "ampersand"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fernandocano/ampersand-sync-fetch.git"
+  },
+  "homepage": "https://github.com/fernandocano/ampersand-sync-fetch",
+  "bugs": {
+    "url": "https://github.com/fernandocano/ampersand-sync-fetch/issues"
+  }
+}
